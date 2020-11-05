@@ -1,3 +1,3 @@
 # GUI-1-InClass-5
  
-Test
+example.html was renamed to index.html for github pages
